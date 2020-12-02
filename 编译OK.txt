@@ -1,0 +1,8 @@
+
+
+
+
+Env:
+ win10+ minGW32 + QT5.9.9
+OK
+
